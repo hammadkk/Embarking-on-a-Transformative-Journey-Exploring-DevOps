@@ -49,6 +49,14 @@ Sigstore is a similar project that provides a transparent and auditable way to s
 
 In our exploration of containerization tools, we couldn’t overlook the importance of secure container image builds. That’s where Kaniko comes into play. Kaniko is a container build tool that allows you to build container images without needing privileged access or a Docker daemon. We delved into Kaniko’s architecture and discussed its advantages in terms of security, reproducibility, and compatibility with various container registries. By utilizing Kaniko, we gained the ability to build container images in a secure and efficient manner, ensuring that our applications are free from vulnerabilities and meet compliance requirements.
 
+# Exploring KO:
+
+![image](https://github.com/hammadkk/Embarking-on-a-Transformative-Journey-Exploring-DevOps/assets/85316531/e041d97a-6ec9-4b40-bc2c-43892f9589a1)
+
+Containerization has revolutionized the software development industry, enabling faster deployment, improved scalability, and increased portability. However, developers faced challenges building and deploying container images for their Go applications. They would have to manually manage the complexities of containerization, including writing complex Dockerfiles, managing container images, Kubernetes clusters, and integrating with container image registries which were effort and time-consuming and really impacted the deployment, quality, and reliability of the container images.
+
+To address these problems KO came into action. KO is a relatively new tool that simplifies the deployment process of containerized Go applications we studied the basics of Ko and explored the tool.
+
 # Embracing Kubernetes:
 
 ![image](https://github.com/hammadkk/Embarking-on-a-Transformative-Journey-Exploring-DevOps/assets/85316531/a64a4036-79f7-4a25-b715-25b798602153)
